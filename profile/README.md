@@ -6,4 +6,4 @@ The platform provides personnel management, equipment tracking, incident logging
 
 ## Acquisition by EcoOnline
 
-D4H has been acquired by [EcoOnline](https://www.ecoonline.com), a global leader in environment, health, safety (EHS), chemical safety, and ESG software. All development activity going forward will be under the EcoOnline GitHub organization: **[https://github.com/EcoOnline](https://github.com/EcoOnline)**.
+D4H has been acquired by [EcoOnline](https://www.ecoonline.com), a global leader in environment, health, safety (EHS), chemical safety, and ESG software. D4H is alive and well, and continues to grow in its new home. All development activity going forward will be under the EcoOnline GitHub organization: **[https://github.com/EcoOnline](https://github.com/EcoOnline)**.
